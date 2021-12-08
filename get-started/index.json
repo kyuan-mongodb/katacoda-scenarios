@@ -1,0 +1,24 @@
+{
+  "title": "scenario-title",
+  "description": "scenario-description",
+  "difficulty": "Beginner",
+  "time": "1 minute",
+  "details": {
+    "steps": [
+      {
+        "title": "Step 1",
+        "text": "step1.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {},
+  "backend": {
+    "imageid": "java"
+  }
+}
